@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  margin-left: 3em;
+}
+
+button {
+  margin-left: 0.5em;
+}
+
+button:disabled {
+  cursor: not-allowed;
+}
